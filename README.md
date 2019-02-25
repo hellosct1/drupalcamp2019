@@ -8,12 +8,11 @@ Les scripts ont été présentés lors de la conférence "Créer votre expérien
 
 ## Testing online the scripts
 
-* 11-VR.html
+* 12-VR.html
 https://glitch.com/~reality-virtuel-demo
 
 * 24-XR-drupal.html
-to be continued...
-
+https://glitch.com/~xr-a-frame-and-drupal
 
 
 ## library original
